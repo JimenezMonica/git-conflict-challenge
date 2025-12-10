@@ -1,2 +1,2 @@
-# git-conflict-challenge (version locale)
+# git-conflict-challenge(version resolu)
 challenge quête 1.6
